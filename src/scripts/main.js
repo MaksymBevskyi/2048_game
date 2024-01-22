@@ -350,5 +350,4 @@ button.addEventListener('click', () => {
     clearBoard();
     setGame();
   }
-}
-);
+});
